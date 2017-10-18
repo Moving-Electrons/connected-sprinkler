@@ -1,0 +1,7 @@
+{
+    "ESSID": "WiFi network name (SSID)",
+	"PASSWD": "Insert the WiFi password",
+	"MQTT_Broker": "Internal IP of the MQTT Server.",
+	"TOPIC": "home/sprinkler",
+  "DURATION": 8
+}
